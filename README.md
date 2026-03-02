@@ -122,3 +122,7 @@ Use slicers to filter data dynamically
 Hover over visuals for detailed tooltips
 
 Analyze trends and performance interactively
+👤 Author
+
+Nitin Panwar 
+Data Analyst | Power BI | SQL | Python
